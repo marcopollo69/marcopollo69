@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @marc brown
 - 👀 I’m interested in javascript,php,python
-- 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on making a website
 - 📫 How to reach me kmarc254@gmail.com
 
