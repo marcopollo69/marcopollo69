@@ -1,4 +1,4 @@
-Hi, I’m @marc brown
+Hi, I’m Mark Brown
 My interest are in HTML, CSS, and JavaScript and php.
 I have a passion for creating user-friendly web experiences, designing websites from the ground up, and troubleshooting code to ensure the best possible performance. 
 I am always looking for new challenges and opportunities to learn more about coding and web development
